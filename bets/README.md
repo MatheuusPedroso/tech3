@@ -144,16 +144,6 @@ Tabelas:
 
 ---
 
-## 🎥 Demonstração (Roteiro do Vídeo)
-
-1. Introdução e objetivo social  
-2. Estrutura e tecnologias  
-3. Execução do backend e frontend  
-4. Coleta e métricas  
-5. Treinamento do modelo ML  
-6. Simulação de probabilidade de perda  
-7. Alerta educativo e envio de pesquisa  
-8. Encerramento
 
 ---
 
